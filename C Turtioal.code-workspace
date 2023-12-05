@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "C Turtioal",
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"Q1.C": "cpp"
+		}
+	}
+}
